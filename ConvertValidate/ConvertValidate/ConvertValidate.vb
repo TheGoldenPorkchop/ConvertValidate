@@ -2,7 +2,7 @@
 'Spring 2025
 'RCET2265
 'ConvertandValidate
-'link
+'https://github.com/TheGoldenPorkchop/ConvertValidate
 Option Strict On
 Option Explicit On
 
