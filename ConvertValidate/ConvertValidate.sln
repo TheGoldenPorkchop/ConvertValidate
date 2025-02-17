@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ConvertValidate", "ConvertValidate\ConvertValidate.vbproj", "{E9FB6FC8-1D0C-4AB8-BBD3-F2DEF8C7C287}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9FB6FC8-1D0C-4AB8-BBD3-F2DEF8C7C287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9FB6FC8-1D0C-4AB8-BBD3-F2DEF8C7C287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9FB6FC8-1D0C-4AB8-BBD3-F2DEF8C7C287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9FB6FC8-1D0C-4AB8-BBD3-F2DEF8C7C287}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
